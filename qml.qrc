@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>LineCanvas.qml</file>
+        <file>Switch.qml</file>
+    </qresource>
+</RCC>
